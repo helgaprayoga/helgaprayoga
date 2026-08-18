@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am an enthusiastic software developer and an Information Technology student at Universitas Negeri Yogyakarta, with a focus on Android development.</p>
+<p align="left">I am an enthusiastic software developer and an Information Technology student at Universitas Negeri Yogyakarta, with a focus on Mobile development.</p>
 
 ###
 
